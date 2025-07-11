@@ -1,0 +1,7 @@
+[project]
+name = "euler"
+version = "0.1.0"
+description = "Project Euler"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []

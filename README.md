@@ -17,3 +17,5 @@ I started solving the monthly Jane Street Puzzles from Nov 2024.
 
 ## Project Euler
 ![My profile](https://projecteuler.net/profile/vicw0ng.png)
+
+Solutions: [euler](/euler)

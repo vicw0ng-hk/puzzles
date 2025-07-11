@@ -1,1 +1,1 @@
-My Solutions to [Project Euler](https://projecteuler.net/) problems
+My Solutions to [Project Euler](https://projecteuler.net/) problems. Check [notebooks](notebooks)

@@ -7,4 +7,6 @@
 
 https://projecteuler.net/about
 
-You may, of course, check with me in over private discussion.
+You may, of course, check with me privately.
+
+:white_check_mark: Solved: 926, 932

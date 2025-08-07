@@ -3,9 +3,10 @@ I solve puzzles. Here are some of the puzzles I solved or my profile on puzzle w
 
 ## Jane Street Puzzles
 I started solving the monthly Jane Street Puzzles from Nov 2024.
-| Month | Puzzle | Official Solution | Solved? | How did I do it? | Who am I on the board? | Difficulty IMO |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | 
-| 2507 | [Robot Road Trip](https://www.janestreet.com/puzzles/robot-road-trip-index/) | TBA | :white_check_mark: | Calculus, Python | vsh | Hard |
+| Month | Puzzle | Official Solution | Solved? | Tools I used | Who am I on the board? | Difficulty IMO |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2508 | [Dogs Playing Poker](https://www.janestreet.com/puzzles/dogs-playing-poker-index/) | TBA | :white_check_mark: | Python | vsh | Medium |
+| 2507 | [Robot Road Trip](https://www.janestreet.com/puzzles/robot-road-trip-index/) | [Solution](https://www.janestreet.com/puzzles/robot-road-trip-solution/) | :white_check_mark: | Calculus, Python | vsh | Hard |
 | 2506 | [Some Ones, Somewhere](https://www.janestreet.com/puzzles/some-ones-somewhere-index/) | [Solution](https://www.janestreet.com/puzzles/some-ones-somewhere-solution/) | :white_check_mark: | MS Excel | Victor Huang | Medium |
 | 2505 | [Number Cross 5](https://www.janestreet.com/puzzles/number-cross-5-index/) | [Solution](https://www.janestreet.com/puzzles/number-cross-5-solution/) | :white_check_mark: | MS Excel | victorhuang | Hard |
 | 2504 | [Sum One, Somewhere](https://www.janestreet.com/puzzles/sum-one-somewhere-index/) | [Solution](https://www.janestreet.com/puzzles/sum-one-somewhere-solution/) | :white_check_mark: | Calculator | vsh | Easy |

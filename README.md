@@ -6,7 +6,7 @@ I started solving the monthly Jane Street Puzzles from Nov 2024.
 | Month | Puzzle | Official Solution | Solved? | Tools I used | Who am I on the board? | Difficulty IMO |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 2509 | [Hooks 11](https://www.janestreet.com/puzzles/hooks-11-index/) | TBA | :white_check_mark: | MS Excel | `victorhuang`, `vich` (They update so slow, so I submitted twice to make sure) | Medium |
-| 2508 | [Dogs Playing Poker](https://www.janestreet.com/puzzles/dogs-playing-poker-index/) | [Solution](https://www.janestreet.com/puzzles/hooks-10-solution/) | :white_check_mark: | Python | `vsh` | Medium |
+| 2508 | [Dogs Playing Poker](https://www.janestreet.com/puzzles/dogs-playing-poker-index/) | [Solution](https://www.janestreet.com/puzzles/dogs-playing-poker-solution/) | :white_check_mark: | Python | `vsh` | Medium |
 | 2507 | [Robot Road Trip](https://www.janestreet.com/puzzles/robot-road-trip-index/) | [Solution](https://www.janestreet.com/puzzles/robot-road-trip-solution/) | :white_check_mark: | Calculus, Python | `vsh` | Hard |
 | 2506 | [Some Ones, Somewhere](https://www.janestreet.com/puzzles/some-ones-somewhere-index/) | [Solution](https://www.janestreet.com/puzzles/some-ones-somewhere-solution/) | :white_check_mark: | MS Excel | `Victor Huang` | Medium |
 | 2505 | [Number Cross 5](https://www.janestreet.com/puzzles/number-cross-5-index/) | [Solution](https://www.janestreet.com/puzzles/number-cross-5-solution/) | :white_check_mark: | MS Excel | `victorhuang` | Hard |

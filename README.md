@@ -5,7 +5,8 @@ I solve puzzles. Here are some of the puzzles I solved or my profile on puzzle w
 I started solving the monthly Jane Street Puzzles from Nov 2024.
 | Month | Puzzle | Official Solution | Solved? | Tools I used | Who am I on the board? | Difficulty IMO |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2511 | [Robot Baseball](https://www.janestreet.com/puzzles/shut-the-box-index/) | TBA | :white_check_mark: | Pen, Paper and Scissors | `vsh` | Medium |
+| 2512 | [Robot Javelin](https://www.janestreet.com/puzzles/robot-javelin-index/) | TBA | :white_check_mark: | Game Theory, Python | `vsh` | Medium |
+| 2511 | [Shut the Box](https://www.janestreet.com/puzzles/shut-the-box-index/) | [Solution](https://www.janestreet.com/puzzles/shut-the-box-solution/) | :white_check_mark: | Pen, Paper and Scissors | `vsh` | Medium |
 | 2510 | [Robot Baseball](https://www.janestreet.com/puzzles/robot-baseball-index/) | [Solution](https://www.janestreet.com/puzzles/robot-baseball-solution/) | :white_check_mark: | Game Theory, Python | `vsh` | Hard |
 | 2509 | [Hooks 11](https://www.janestreet.com/puzzles/hooks-11-index/) | [Solution](https://www.janestreet.com/puzzles/hooks-11-solution/) | :white_check_mark: | MS Excel | `victorhuang`, `vich` (They update so slow, so I submitted twice to make sure) | Medium |
 | 2508 | [Dogs Playing Poker](https://www.janestreet.com/puzzles/dogs-playing-poker-index/) | [Solution](https://www.janestreet.com/puzzles/dogs-playing-poker-solution/) | :white_check_mark: | Python | `vsh` | Medium |

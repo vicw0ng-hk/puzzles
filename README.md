@@ -5,7 +5,7 @@ I solve puzzles. Here are some of the puzzles I solved or my profile on puzzle w
 I started solving the monthly Jane Street Puzzles from Nov 2024.
 | Month | Puzzle | Official Solution | Solved? | Tools I used | Who am I on the board? | Difficulty IMO |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2602 | [Timely Journey](https://www.janestreet.com/puzzles/subtiles-2-index/) | TBA | :white_check_mark: | Mental math, Pencil and Paper | `vsh` | Easy |
+| 2602 | [Subtiles 2](https://www.janestreet.com/puzzles/subtiles-2-index/) | TBA | :white_check_mark: | Mental math, Pencil and Paper | `vsh` | Easy |
 | 2601 | [Timely Journey](https://www.janestreet.com/puzzles/timely-journey-index/) | [Solution](https://www.janestreet.com/puzzles/timely-journey-solution/) | :white_check_mark: | MS Excel, Google | `Victor S Huang` | Extreme |
 | 2512 | [Robot Javelin](https://www.janestreet.com/puzzles/robot-javelin-index/) | [Solution](https://www.janestreet.com/puzzles/robot-javelin-solution/) | :white_check_mark: | Game Theory, Python | `vsh` | Medium |
 | 2511 | [Shut the Box](https://www.janestreet.com/puzzles/shut-the-box-index/) | [Solution](https://www.janestreet.com/puzzles/shut-the-box-solution/) | :white_check_mark: | Pen, Paper and Scissors | `vsh` | Medium |

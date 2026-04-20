@@ -5,7 +5,8 @@ I solve puzzles. Here are some of the puzzles I solved or my profile on puzzle w
 I started solving the monthly Jane Street Puzzles from Nov 2024.
 | Month | Puzzle | Official Solution | Solved? | Tools I used | Who am I on the board? | Difficulty IMO |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2603 | [Planetary Parade](https://www.janestreet.com/puzzles/planetary-parade-index/) | TBA | :white_check_mark: | Pen and Paper | `vich` | Hard |
+| 2603 | [Can U Dig It?](https://www.janestreet.com/puzzles/can-u-dig-it-index/) | TBA | :white_check_mark: | MS Excel | `vich` | Extreme++ |
+| 2603 | [Planetary Parade](https://www.janestreet.com/puzzles/planetary-parade-index/) | [Solution](https://www.janestreet.com/puzzles/planetary-parade-solution/) | :white_check_mark: | Pen and Paper | `vich` | Hard |
 | 2602 | [Subtiles 2](https://www.janestreet.com/puzzles/subtiles-2-index/) | [Solution](https://www.janestreet.com/puzzles/subtiles-2-solution/) | :white_check_mark: | Mental math, MS Excel | `vsh` | Easy |
 | 2601 | [Timely Journey](https://www.janestreet.com/puzzles/timely-journey-index/) | [Solution](https://www.janestreet.com/puzzles/timely-journey-solution/) | :white_check_mark: | MS Excel, Google | `Victor S Huang` | Extreme |
 | 2512 | [Robot Javelin](https://www.janestreet.com/puzzles/robot-javelin-index/) | [Solution](https://www.janestreet.com/puzzles/robot-javelin-solution/) | :white_check_mark: | Game Theory, Python | `vsh` | Medium |

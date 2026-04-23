@@ -3,6 +3,9 @@ I solve puzzles. Here are some of the puzzles I solved or my profile on puzzle w
 
 ## Jane Street Puzzles
 I started solving the monthly Jane Street Puzzles from Nov 2024.
+
+Feel Free to reach out for hints/collab.
+
 | Month | Puzzle | Official Solution | Solved? | Tools I used | Who am I on the board? | Difficulty IMO |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 2604 | [Can U Dig It?](https://www.janestreet.com/puzzles/can-u-dig-it-index/) | TBA | :white_check_mark: | MS Excel | `vich` | Extreme++ |

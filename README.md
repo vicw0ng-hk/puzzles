@@ -8,7 +8,8 @@ Feel free to reach out for hints/collab.
 
 | Month | Puzzle | Official Solution | Solved? | Tools I used | Who am I on the board? | Difficulty IMO |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2604 | [Can U Dig It?](https://www.janestreet.com/puzzles/can-u-dig-it-index/) | TBA | :white_check_mark: | MS Excel | `vich` | Extreme++ |
+| 2605 | [Arch Madness](https://www.janestreet.com/puzzles/arch-madness-index/) | TBA | :white_check_mark: | Pencil | `vsh` | Medium |
+| 2604 | [Can U Dig It?](https://www.janestreet.com/puzzles/can-u-dig-it-index/) | [Solution](https://www.janestreet.com/puzzles/can-u-dig-it-solution/) | :white_check_mark: | MS Excel | `vich` | Extreme++ |
 | 2603 | [Planetary Parade](https://www.janestreet.com/puzzles/planetary-parade-index/) | [Solution](https://www.janestreet.com/puzzles/planetary-parade-solution/) | :white_check_mark: | Pen and Paper | `vich` | Hard |
 | 2602 | [Subtiles 2](https://www.janestreet.com/puzzles/subtiles-2-index/) | [Solution](https://www.janestreet.com/puzzles/subtiles-2-solution/) | :white_check_mark: | Mental math, MS Excel | `vsh` | Easy |
 | 2601 | [Timely Journey](https://www.janestreet.com/puzzles/timely-journey-index/) | [Solution](https://www.janestreet.com/puzzles/timely-journey-solution/) | :white_check_mark: | MS Excel, Google | `Victor S Huang` | Extreme |

@@ -8,25 +8,26 @@ Feel free to reach out for hints/collab.
 
 | Month | Puzzle | Official Solution | Writeup | Solved? | Tools I used | Who am I on the board? | Difficulty IMO |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2605 | [Arch Madness](https://www.janestreet.com/puzzles/arch-madness-index/) | TBA |  | :white_check_mark: | Pencil | `vsh` | Medium |
-| 2604 | [Can U Dig It?](https://www.janestreet.com/puzzles/can-u-dig-it-index/) | [Solution](https://www.janestreet.com/puzzles/can-u-dig-it-solution/) |  | :white_check_mark: | MS Excel | `vich` | Extreme++ |
-| 2603 | [Planetary Parade](https://www.janestreet.com/puzzles/planetary-parade-index/) | [Solution](https://www.janestreet.com/puzzles/planetary-parade-solution/) |  | :white_check_mark: | Pen and Paper | `vich` | Hard |
-| 2602 | [Subtiles 2](https://www.janestreet.com/puzzles/subtiles-2-index/) | [Solution](https://www.janestreet.com/puzzles/subtiles-2-solution/) |  | :white_check_mark: | Mental math, MS Excel | `vsh` | Easy |
-| 2601 | [Timely Journey](https://www.janestreet.com/puzzles/timely-journey-index/) | [Solution](https://www.janestreet.com/puzzles/timely-journey-solution/) |  | :white_check_mark: | MS Excel, Google | `Victor S Huang` | Extreme |
-| 2512 | [Robot Javelin](https://www.janestreet.com/puzzles/robot-javelin-index/) | [Solution](https://www.janestreet.com/puzzles/robot-javelin-solution/) | [Writeup](https://vsh852.com/posts/2026-01-robot-javelin/) | :white_check_mark: | Game Theory, Python | `vsh` | Medium |
-| 2511 | [Shut the Box](https://www.janestreet.com/puzzles/shut-the-box-index/) | [Solution](https://www.janestreet.com/puzzles/shut-the-box-solution/) |  | :white_check_mark: | Pen, Paper and Scissors | `vsh` | Medium |
-| 2510 | [Robot Baseball](https://www.janestreet.com/puzzles/robot-baseball-index/) | [Solution](https://www.janestreet.com/puzzles/robot-baseball-solution/) | [Writeup](https://vsh852.com/posts/2025-11-robot-baseball/) | :white_check_mark: | Game Theory, Python | `vsh` | Hard |
-| 2509 | [Hooks 11](https://www.janestreet.com/puzzles/hooks-11-index/) | [Solution](https://www.janestreet.com/puzzles/hooks-11-solution/) |  | :white_check_mark: | MS Excel | `victorhuang`, `vich` (They update so slow, so I submitted twice to make sure) | Medium |
-| 2508 | [Dogs Playing Poker](https://www.janestreet.com/puzzles/dogs-playing-poker-index/) | [Solution](https://www.janestreet.com/puzzles/dogs-playing-poker-solution/) |  | :white_check_mark: | Python | `vsh` | Medium |
-| 2507 | [Robot Road Trip](https://www.janestreet.com/puzzles/robot-road-trip-index/) | [Solution](https://www.janestreet.com/puzzles/robot-road-trip-solution/) | [Writeup](https://vsh852.com/posts/2025-08-robot-road-trip/) | :white_check_mark: | Calculus, Python | `vsh` | Hard |
-| 2506 | [Some Ones, Somewhere](https://www.janestreet.com/puzzles/some-ones-somewhere-index/) | [Solution](https://www.janestreet.com/puzzles/some-ones-somewhere-solution/) |  | :white_check_mark: | MS Excel | `Victor Huang` | Medium |
-| 2505 | [Number Cross 5](https://www.janestreet.com/puzzles/number-cross-5-index/) | [Solution](https://www.janestreet.com/puzzles/number-cross-5-solution/) |  | :white_check_mark: | MS Excel | `victorhuang` | Hard |
-| 2504 | [Sum One, Somewhere](https://www.janestreet.com/puzzles/sum-one-somewhere-index/) | [Solution](https://www.janestreet.com/puzzles/sum-one-somewhere-solution/) | [Writeup](https://vsh852.com/posts/2025-05-sum-one-somewhere/) | :white_check_mark: | Calculator | `vsh` | Easy |
-| 2503 | [Hall of Mirrors 3](https://www.janestreet.com/puzzles/hall-of-mirrors-3-index/) | [Solution](https://www.janestreet.com/puzzles/hall-of-mirrors-3-solution/) |  | :white_check_mark: | MS Excel | `vich` | Medium |
-| 2502 | [Top Score (Give or Take)](https://www.janestreet.com/puzzles/top-score-give-or-take-index/) | [Solution](https://www.janestreet.com/puzzles/top-score-give-or-take-solution/) |  | :white_check_mark: | imdb.com | `vsh` | Hard |
-| 2501 | [Somewhat Square Sudoku](https://www.janestreet.com/puzzles/somewhat-square-sudoku-index/) | [Solution](https://www.janestreet.com/puzzles/somewhat-square-sudoku-solution/) |  | :white_check_mark: | Python | `vsh` | Easy |
-| 2412 | [Games Night!](https://www.janestreet.com/puzzles/games-night-index/) | [Solution](https://www.janestreet.com/puzzles/games-night-solution/) |  | :white_check_mark: | Google | `vickh` | Easy |
-| 2411 | [Beside The Point](https://www.janestreet.com/puzzles/beside-the-point-index/) | [Solution](https://www.janestreet.com/puzzles/beside-the-point-solution/) | [Writeup](https://vsh852.com/posts/2024-12-beside-the-point/) | :white_check_mark: | Calculus, Python | `vsh` | Medium |
+| 2606 | [Arch Madness](https://www.janestreet.com/puzzles/arch-madness-index/) | TBA |  | ✅ | Google | `vsh` (I'm number 1!) | Easy |
+| 2605 | [Arch Madness](https://www.janestreet.com/puzzles/arch-madness-index/) | [Solution](https://www.janestreet.com/puzzles/arch-madness-solution/) |  | ✅ | Pencil | `vsh` | Medium |
+| 2604 | [Can U Dig It?](https://www.janestreet.com/puzzles/can-u-dig-it-index/) | [Solution](https://www.janestreet.com/puzzles/can-u-dig-it-solution/) |  | ✅ | MS Excel | `vich` | Extreme++ |
+| 2603 | [Planetary Parade](https://www.janestreet.com/puzzles/planetary-parade-index/) | [Solution](https://www.janestreet.com/puzzles/planetary-parade-solution/) |  | ✅ | Pen and Paper | `vich` | Hard |
+| 2602 | [Subtiles 2](https://www.janestreet.com/puzzles/subtiles-2-index/) | [Solution](https://www.janestreet.com/puzzles/subtiles-2-solution/) |  | ✅ | Mental math, MS Excel | `vsh` | Easy |
+| 2601 | [Timely Journey](https://www.janestreet.com/puzzles/timely-journey-index/) | [Solution](https://www.janestreet.com/puzzles/timely-journey-solution/) |  | ✅ | MS Excel, Google | `Victor S Huang` | Extreme |
+| 2512 | [Robot Javelin](https://www.janestreet.com/puzzles/robot-javelin-index/) | [Solution](https://www.janestreet.com/puzzles/robot-javelin-solution/) | [Writeup](https://vsh852.com/posts/2026-01-robot-javelin/) | ✅ | Game Theory, Python | `vsh` | Medium |
+| 2511 | [Shut the Box](https://www.janestreet.com/puzzles/shut-the-box-index/) | [Solution](https://www.janestreet.com/puzzles/shut-the-box-solution/) |  | ✅ | Pen, Paper and Scissors | `vsh` | Medium |
+| 2510 | [Robot Baseball](https://www.janestreet.com/puzzles/robot-baseball-index/) | [Solution](https://www.janestreet.com/puzzles/robot-baseball-solution/) | [Writeup](https://vsh852.com/posts/2025-11-robot-baseball/) | ✅ | Game Theory, Python | `vsh` | Hard |
+| 2509 | [Hooks 11](https://www.janestreet.com/puzzles/hooks-11-index/) | [Solution](https://www.janestreet.com/puzzles/hooks-11-solution/) |  | ✅ | MS Excel | `victorhuang`, `vich` (They update so slow, so I submitted twice to make sure) | Medium |
+| 2508 | [Dogs Playing Poker](https://www.janestreet.com/puzzles/dogs-playing-poker-index/) | [Solution](https://www.janestreet.com/puzzles/dogs-playing-poker-solution/) |  | ✅ | Python | `vsh` | Medium |
+| 2507 | [Robot Road Trip](https://www.janestreet.com/puzzles/robot-road-trip-index/) | [Solution](https://www.janestreet.com/puzzles/robot-road-trip-solution/) | [Writeup](https://vsh852.com/posts/2025-08-robot-road-trip/) | ✅ | Calculus, Python | `vsh` | Hard |
+| 2506 | [Some Ones, Somewhere](https://www.janestreet.com/puzzles/some-ones-somewhere-index/) | [Solution](https://www.janestreet.com/puzzles/some-ones-somewhere-solution/) |  | ✅ | MS Excel | `Victor Huang` | Medium |
+| 2505 | [Number Cross 5](https://www.janestreet.com/puzzles/number-cross-5-index/) | [Solution](https://www.janestreet.com/puzzles/number-cross-5-solution/) |  | ✅ | MS Excel | `victorhuang` | Hard |
+| 2504 | [Sum One, Somewhere](https://www.janestreet.com/puzzles/sum-one-somewhere-index/) | [Solution](https://www.janestreet.com/puzzles/sum-one-somewhere-solution/) | [Writeup](https://vsh852.com/posts/2025-05-sum-one-somewhere/) | ✅ | Calculator | `vsh` | Easy |
+| 2503 | [Hall of Mirrors 3](https://www.janestreet.com/puzzles/hall-of-mirrors-3-index/) | [Solution](https://www.janestreet.com/puzzles/hall-of-mirrors-3-solution/) |  | ✅ | MS Excel | `vich` | Medium |
+| 2502 | [Top Score (Give or Take)](https://www.janestreet.com/puzzles/top-score-give-or-take-index/) | [Solution](https://www.janestreet.com/puzzles/top-score-give-or-take-solution/) |  | ✅ | imdb.com | `vsh` | Hard |
+| 2501 | [Somewhat Square Sudoku](https://www.janestreet.com/puzzles/somewhat-square-sudoku-index/) | [Solution](https://www.janestreet.com/puzzles/somewhat-square-sudoku-solution/) |  | ✅ | Python | `vsh` | Easy |
+| 2412 | [Games Night!](https://www.janestreet.com/puzzles/games-night-index/) | [Solution](https://www.janestreet.com/puzzles/games-night-solution/) |  | ✅ | Google | `vickh` | Easy |
+| 2411 | [Beside The Point](https://www.janestreet.com/puzzles/beside-the-point-index/) | [Solution](https://www.janestreet.com/puzzles/beside-the-point-solution/) | [Writeup](https://vsh852.com/posts/2024-12-beside-the-point/) | ✅ | Calculus, Python | `vsh` | Medium |
 
 ## Project Euler
 ![My profile](https://projecteuler.net/profile/vicw0ng.png)

@@ -8,7 +8,8 @@ Feel free to reach out for hints/collab.
 
 | Month | Puzzle | Official Solution | Writeup | Solved? | Tools I used | Who am I on the board? | Difficulty IMO |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2606 | [Regional Artwork](https://www.janestreet.com/puzzles/regional-artwork-index/) | TBA |  | ✅ | Google | `vsh` (I'm number 1!) | Easy |
+| 2607 | [‘Pent-Up’ Frustration 3 / Knight Moves 7](https://www.janestreet.com/puzzles/pent-up-frustration-3-knight-moves-7-index/) | TBA |  | ✅ | Python | `vsh` | Medium |
+| 2606 | [Regional Artwork](https://www.janestreet.com/puzzles/regional-artwork-index/) | [Solution](https://www.janestreet.com/puzzles/regional-artwork-solution/) |  | ✅ | Google | `vsh` (I'm number 1!) | Easy |
 | 2605 | [Arch Madness](https://www.janestreet.com/puzzles/arch-madness-index/) | [Solution](https://www.janestreet.com/puzzles/arch-madness-solution/) |  | ✅ | Pencil | `vsh` | Medium |
 | 2604 | [Can U Dig It?](https://www.janestreet.com/puzzles/can-u-dig-it-index/) | [Solution](https://www.janestreet.com/puzzles/can-u-dig-it-solution/) |  | ✅ | MS Excel | `vich` | Extreme++ |
 | 2603 | [Planetary Parade](https://www.janestreet.com/puzzles/planetary-parade-index/) | [Solution](https://www.janestreet.com/puzzles/planetary-parade-solution/) | [Writeup](https://vsh852.com/posts/2026-04-04-planetary-parade/) | ✅ | Pen and Paper | `vich` | Hard |

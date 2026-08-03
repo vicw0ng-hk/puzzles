@@ -8,7 +8,8 @@ Feel free to reach out for hints/collab.
 
 | Month | Puzzle | Official Solution | Writeup | Solved? | Tools I used | Who am I on the board? | Difficulty IMO |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2607 | [‘Pent-Up’ Frustration 3 / Knight Moves 7](https://www.janestreet.com/puzzles/pent-up-frustration-3-knight-moves-7-index/) | TBA |  | ✅ | Python | `vsh` | Medium |
+| 2608 | [Andy's Morning Stroll](https://www.janestreet.com/puzzles/andys-afternoon-amble-index/) | TBA |  | ✅ | Pen and Paper | `vsh` | Medium |
+| 2607 | [‘Pent-Up’ Frustration 3 / Knight Moves 7](https://www.janestreet.com/puzzles/pent-up-frustration-3-knight-moves-7-index/) | [Solution](https://www.janestreet.com/puzzles/pent-up-frustration-3-knight-moves-7-solution/) |  | ✅ | Python | `vsh` | Medium |
 | 2606 | [Regional Artwork](https://www.janestreet.com/puzzles/regional-artwork-index/) | [Solution](https://www.janestreet.com/puzzles/regional-artwork-solution/) |  | ✅ | Google | `vsh` (I'm number 1!) | Easy |
 | 2605 | [Arch Madness](https://www.janestreet.com/puzzles/arch-madness-index/) | [Solution](https://www.janestreet.com/puzzles/arch-madness-solution/) |  | ✅ | Pencil | `vsh` | Medium |
 | 2604 | [Can U Dig It?](https://www.janestreet.com/puzzles/can-u-dig-it-index/) | [Solution](https://www.janestreet.com/puzzles/can-u-dig-it-solution/) |  | ✅ | MS Excel | `vich` | Extreme++ |

@@ -8,7 +8,8 @@ Feel free to reach out for hints/collab.
 
 | Month | Puzzle | Official Solution | Writeup | Solved? | Tools I used | Who am I on the board? | Difficulty IMO |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2609 | [Hint Singles](https://www.janestreet.com/puzzles/hint-singles-index/) | TBA |  | ✅ | Google | `vsh` | Medium |
+| 2610 | [It's a Metric, Too](https://www.janestreet.com/puzzles/it-s-a-metric-too-index/) | TBA |  | ✅ | Python | `vsh` | Medium |
+| 2609 | [Hint Singles](https://www.janestreet.com/puzzles/hint-singles-index/) | [Solution](https://www.janestreet.com/puzzles/hint-singles-solution/) |  | ✅ | Google | `vsh` | Medium |
 | 2608 | [Andy's Morning Stroll](https://www.janestreet.com/puzzles/andys-afternoon-amble-index/) | [Solution](https://www.janestreet.com/puzzles/andys-afternoon-amble-solution/) |  | ✅ | Pen and Paper | `vsh` | Medium |
 | 2607 | [‘Pent-Up’ Frustration 3 / Knight Moves 7](https://www.janestreet.com/puzzles/pent-up-frustration-3-knight-moves-7-index/) | [Solution](https://www.janestreet.com/puzzles/pent-up-frustration-3-knight-moves-7-solution/) |  | ✅ | Python | `vsh` | Medium |
 | 2606 | [Regional Artwork](https://www.janestreet.com/puzzles/regional-artwork-index/) | [Solution](https://www.janestreet.com/puzzles/regional-artwork-solution/) |  | ✅ | Google | `vsh` (I'm number 1!) | Easy |
